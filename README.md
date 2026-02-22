@@ -1,7 +1,7 @@
 # proyecto-paginaweb-html-2019
 
 # Título del Proyecto
-Proyecto de una página web sobre el fútbol.
+Proyecto de una página web personalizada sobre el fútbol.
 
 ### Pre-requisitos 📋
 _-Instalar el editor Notepad para crear los html y css del proyecto que incluyan el código._
