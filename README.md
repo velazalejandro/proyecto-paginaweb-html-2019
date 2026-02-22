@@ -3,7 +3,7 @@
 # Título del Proyecto
 Proyecto de una página web personalizada sobre el fútbol.
 
-### Pre-requisitos 📋
+### Requisitos 📋
 _-Instalar el editor Notepad para crear los html y css del proyecto que incluyan el código._
 _-Creación de HTML para dar forma a la página mediante tablas, cabecera, títulos, formulario, listas numeradas..._
 _-Creación de CSS para dar forma a la página mediante diseño y color._
