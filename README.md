@@ -4,11 +4,11 @@
 Proyecto de una página web sobre el fútbol.
 
 ### Pre-requisitos 📋
-_Instalar el editor Notepad para crear los html y css del proyecto que incluyan código._
-_Creación de HTM para dar forma a la página mediante tablas._
-_Creación de CSS para dar forma a la página mediante diseño y color._
-_Creación de Formulario de registro completo_
+_-Instalar el editor Notepad para crear los html y css del proyecto que incluyan el código._
+_-Creación de HTML para dar forma a la página mediante tablas, cabecera, títulos, formulario, listas numeradas..._
+_-Creación de CSS para dar forma a la página mediante diseño y color._
+_-Creación de Formulario de registro completo._
 
 ## Construido con 🛠️
-_Lenguaje HTML_
-_Lenguaje CSS_
+_-Lenguaje HTML_
+_-Lenguaje CSS_
