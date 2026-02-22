@@ -8,6 +8,7 @@ Proyecto de una página web personalizada sobre el fútbol.
 - Creación de HTML para dar forma a la página mediante tablas, cabecera, títulos, formulario, listas numeradas...
 - Creación de CSS para dar forma a la página mediante diseño y color.
 - Creación de Formulario de registro completo.
+- Inserción de imágenes, música y vídeo en el HTML.
 
 ## Construido con 🛠️
 - Lenguaje HTML
