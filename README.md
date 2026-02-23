@@ -13,3 +13,6 @@ Proyecto de una página web personalizada sobre el fútbol.
 ## Construido con 🛠️
 - Lenguaje HTML
 - Lenguaje CSS
+
+## Licencia 📄
+Bajo licencia GNU General Public License v3.0
